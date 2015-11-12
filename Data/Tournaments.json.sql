@@ -1,0 +1,45 @@
+{
+	Tournaments :
+	[
+			{
+				"id":"01",
+				"name": "Belgica Prime - Automne 2015 1Vs1",
+		    "eventStart": "20151107080000",
+		    "eventFinish": "20151107180000",
+		    "numbersOfPlayers": "60",
+		    "gameSystem": "Warhammer 40K",
+		    "location": "Montignies-Sur-Roc"
+		    "price": "15"
+			},
+			{
+				"id":"02",
+				"name": "Tournoi d'Eb`ne Warhammer",
+		    "eventStart": "20151108080000",
+		    "eventFinish": "20151108180000",
+		    "numbersOfPlayers": "48",
+		    "gameSystem": "Warhammer Batlle",
+		    "location": "Ath"
+		    "price": "18"
+			},
+			{
+				"id":"03",
+				"name": "X-Wing Brussels Escalation - 2",
+		    "eventStart": "20151110080000",
+		    "eventFinish": "20151110180000",
+		    "numbersOfPlayers": "12",
+		    "gameSystem": "X-Wings Miniatures",
+		    "location": "Bruxelles"
+		    "price": "10"
+			},
+			{
+				"id":"04",
+				"name": "Revenge of the stormcrows II",
+		    "eventStart": "20151121080000",
+		    "eventFinish": "20151121180000",
+		    "numbersOfPlayers": "12",
+		    "gameSystem": "X-Wings Miniatures",
+		    "location": "Liége"
+		    "price": "12"
+			}
+	]
+}

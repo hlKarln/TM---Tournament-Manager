@@ -8,7 +8,7 @@
 		    	"eventFinish": "20151107180000",
 		    	"numbersOfPlayers": "60",
 		    	"gameSystem": "Warhammer 40K",
-		    	"location": "Montignies-Sur-Roc"
+		    	"location": "Montignies-Sur-Roc",
 		    	"price": "15"
 		},
 		{
@@ -18,7 +18,7 @@
 		    	"eventFinish": "20151108180000",
 		    	"numbersOfPlayers": "48",
 		    	"gameSystem": "Warhammer Batlle",
-		    	"location": "Ath"
+		    	"location": "Ath",
 		    	"price": "18"
 		},
 		{
@@ -28,7 +28,7 @@
 		    	"eventFinish": "20151110180000",
 		    	"numbersOfPlayers": "12",
 		    	"gameSystem": "X-Wings Miniatures",
-		    	"location": "Bruxelles"
+		    	"location": "Bruxelles",
 		    	"price": "10"
 		},
 		{
@@ -38,7 +38,7 @@
 		    	"eventFinish": "20151121180000",
 		    	"numbersOfPlayers": "12",
 		    	"gameSystem": "X-Wings Miniatures",
-		    	"location": "Liége"
+		    	"location": "Liége",
 		    	"price": "12"
 		}
 	]
